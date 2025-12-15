@@ -13,7 +13,7 @@ Sinusoidal Positional Encodings (Manual mathematical implementation, not learned
 
 The model was trained on the "Tiny Shakespeare" dataset and achieves a competitive validation Loss (~1.48).
 
-✨ Key Features
+## Key Features
 Manual Architecture: Custom implementation of Transformer blocks, LayerNorm (Pre-Norm), and Causal Masking.
 
 Decoding Strategies: Support for three text generation methods:
@@ -28,7 +28,7 @@ Visualization: Automatic generation of Heatmaps for Positional Encodings and  Lo
 
 Tokenizer: Character-level tokenizer.
 
-🛠️ Requirements
+## Requirements
 To run this code, you need to have the following installed:
 
 Python 3
@@ -45,7 +45,7 @@ You can install the dependencies with:
 
 Bash
 pip install torch matplotlib numpy requests
-⚙️ Installation & Usage
+## Installation & Usage
 Clone the repository:
 
 git clone https://github.com/arojocz/mini-gpt.git
