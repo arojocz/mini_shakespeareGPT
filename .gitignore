@@ -1,0 +1,19 @@
+# Ignorar archivos generados por PyTorch (Model Checkpoints/Pesos)
+*.pth
+*.pt
+
+# Ignorar archivos de logs
+*.log
+runs/
+
+# Ignorar archivos de datos grandes/generados
+input.txt
+loss.png
+positional_encoding_heatmap.png
+
+# Ignorar archivos específicos de macOS
+.DS_Store
+
+# Directorios de entornos virtuales (opcional, si usas uno)
+venv/
+env/
