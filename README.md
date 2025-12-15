@@ -1,4 +1,4 @@
-# MiniGPT - Shakespeare Model
+# MiniGPT - Shakespare Model
 
 ## Project Description
 This project consists of a from-scratch implementation of a Decoder-Only Transformer architecture (GPT-style), trained to generate dramatic text in the style of William Shakespeare.
@@ -9,7 +9,7 @@ Self-Attention Mechanism (Scaled Dot-Product Attention).
 
 Vectorized Multi-Head Attention.
 
-Sinusoidal Positional Encodings (Manual mathematical implementation, not learned embeddings).
+Sinusoidal Positional Encodings.
 
 The model was trained on the "Tiny Shakespeare" dataset and achieves a competitive validation Loss (~1.48).
 
