@@ -48,7 +48,7 @@ pip install torch matplotlib numpy requests
 ## Installation & Usage
 Clone the repository:
 
-git clone https://github.com/arojocz/mini-gpt.git
+git clone https://github.com/arojocz/mini_shakespeareGPT
 
 Train the model: Run the main script. If no saved model exists, training will start automatically (3000 iterations by default).
 
