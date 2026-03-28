@@ -13,6 +13,21 @@ Sinusoidal Positional Encodings.
 
 The model was trained on the "Tiny Shakespeare" dataset and achieves a competitive validation Loss (~1.48).
 
+---
+## Tech
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+---
+## Topics
+![NLP](https://img.shields.io/badge/Field-NLP-blueviolet?style=for-the-badge)
+![LLM](https://img.shields.io/badge/Model-Mini_GPT-orange?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/Arch-Transformer-red?style=for-the-badge)
+
 ## Key Features
 Manual Architecture: Custom implementation of Transformer blocks, LayerNorm (Pre-Norm), and Causal Masking.
 
